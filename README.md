@@ -4,7 +4,7 @@ This is a repo forked from [Rhoana](http://github.com/Rhoana/small_stack_affine_
 ## Description
 A fast affine only registration for a small stack
 
-##Installation
+## Installation
 1. Create a new environment
 ```
 conda create -n ENV_NAME python=3.7
@@ -36,11 +36,11 @@ $ pip install --editable .
 ```
 
 ## Usage
-+For IDE users:
-   +Choose the former conda environment as the interpreter.
-   +Open *aligner.py*
-   +Change the input directory to your local path
-+For terminal user:
++ For IDE users:
+   + Choose the former conda environment as the interpreter.
+   + Open *aligner.py*
+   + Change the input directory to your local path
++ For terminal user:
 ```
 conda activate ENV_NAME
 cd path/to/small_stack_affine_alignment
