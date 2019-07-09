@@ -1,7 +1,7 @@
 import numpy as np
 import copy
 from .models import Transforms
-from scipy.misc import comb
+from scipy.special import comb
 from rh_logger.api import logger
 import logging
 import math
